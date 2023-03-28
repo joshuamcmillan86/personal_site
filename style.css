@@ -31,7 +31,7 @@ h3{
     
 .box-1{
    text-align: center;
-   
+   display: flex;
    }
 
 .container{
@@ -42,9 +42,18 @@ h3{
 img{
     width: 200px;
     padding: 15px;
-    float: left;
+   /*  float: left; */
 }
 
 p{
     font-size: x-large;
+}
+
+.box-2{
+    text-align: center;
+    display: flex;
+    
+}
+h2{
+    text-align: center;
 }
